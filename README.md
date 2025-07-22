@@ -1,8 +1,7 @@
 # EXIF Focal Length Analyzer
 
 批量提取JPEG照片的焦距(EXIF)信息并生成统计报告
-
-![image-20250722232358535](./assets/image-20250722232358535.png)
+<img width="2082" height="1031" alt="image" src="https://github.com/user-attachments/assets/bf43b7bb-e5da-4cd6-bb99-fed2e27882b6" />
 
 ## 功能
 - 扫描目录中的JPEG文件
